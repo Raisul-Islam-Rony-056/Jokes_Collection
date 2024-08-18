@@ -1,0 +1,193 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\shaji\\Desktop\\NET_Project\\Bulky\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E2F336BB-CC41-4173-8ADA-3E074A192E86}|BulkyWeb\\BulkyWeb.csproj|c:\\users\\shaji\\desktop\\net_project\\bulky\\bulkyweb\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{E2F336BB-CC41-4173-8ADA-3E074A192E86}|BulkyWeb\\BulkyWeb.csproj|solutionrelative:bulkyweb\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2F336BB-CC41-4173-8ADA-3E074A192E86}|BulkyWeb\\BulkyWeb.csproj|c:\\users\\shaji\\desktop\\net_project\\bulky\\bulkyweb\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E2F336BB-CC41-4173-8ADA-3E074A192E86}|BulkyWeb\\BulkyWeb.csproj|solutionrelative:bulkyweb\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2F336BB-CC41-4173-8ADA-3E074A192E86}|BulkyWeb\\BulkyWeb.csproj|c:\\users\\shaji\\desktop\\net_project\\bulky\\bulkyweb\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E2F336BB-CC41-4173-8ADA-3E074A192E86}|BulkyWeb\\BulkyWeb.csproj|solutionrelative:bulkyweb\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2F336BB-CC41-4173-8ADA-3E074A192E86}|BulkyWeb\\BulkyWeb.csproj|c:\\users\\shaji\\desktop\\net_project\\bulky\\bulkyweb\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E2F336BB-CC41-4173-8ADA-3E074A192E86}|BulkyWeb\\BulkyWeb.csproj|solutionrelative:bulkyweb\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2F336BB-CC41-4173-8ADA-3E074A192E86}|BulkyWeb\\BulkyWeb.csproj|c:\\users\\shaji\\desktop\\net_project\\bulky\\bulkyweb\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E2F336BB-CC41-4173-8ADA-3E074A192E86}|BulkyWeb\\BulkyWeb.csproj|solutionrelative:bulkyweb\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2F336BB-CC41-4173-8ADA-3E074A192E86}|BulkyWeb\\BulkyWeb.csproj|c:\\users\\shaji\\desktop\\net_project\\bulky\\bulkyweb\\controllers\\jokescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2F336BB-CC41-4173-8ADA-3E074A192E86}|BulkyWeb\\BulkyWeb.csproj|solutionrelative:bulkyweb\\controllers\\jokescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2F336BB-CC41-4173-8ADA-3E074A192E86}|BulkyWeb\\BulkyWeb.csproj|c:\\users\\shaji\\desktop\\net_project\\bulky\\bulkyweb\\views\\jokes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E2F336BB-CC41-4173-8ADA-3E074A192E86}|BulkyWeb\\BulkyWeb.csproj|solutionrelative:bulkyweb\\views\\jokes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2F336BB-CC41-4173-8ADA-3E074A192E86}|BulkyWeb\\BulkyWeb.csproj|c:\\users\\shaji\\desktop\\net_project\\bulky\\bulkyweb\\views\\jokes\\showsearchform.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E2F336BB-CC41-4173-8ADA-3E074A192E86}|BulkyWeb\\BulkyWeb.csproj|solutionrelative:bulkyweb\\views\\jokes\\showsearchform.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2F336BB-CC41-4173-8ADA-3E074A192E86}|BulkyWeb\\BulkyWeb.csproj|c:\\users\\shaji\\desktop\\net_project\\bulky\\bulkyweb\\models\\jokes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2F336BB-CC41-4173-8ADA-3E074A192E86}|BulkyWeb\\BulkyWeb.csproj|solutionrelative:bulkyweb\\models\\jokes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2F336BB-CC41-4173-8ADA-3E074A192E86}|BulkyWeb\\BulkyWeb.csproj|c:\\users\\shaji\\desktop\\net_project\\bulky\\bulkyweb\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2F336BB-CC41-4173-8ADA-3E074A192E86}|BulkyWeb\\BulkyWeb.csproj|solutionrelative:bulkyweb\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\shaji\\Desktop\\NET_Project\\Bulky\\BulkyWeb\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "BulkyWeb\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\shaji\\Desktop\\NET_Project\\Bulky\\BulkyWeb\\wwwroot\\css\\site.css*",
+              "RelativeToolTip": "BulkyWeb\\wwwroot\\css\\site.css*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-08-18T10:53:59.74Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\shaji\\Desktop\\NET_Project\\Bulky\\BulkyWeb\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "BulkyWeb\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\shaji\\Desktop\\NET_Project\\Bulky\\BulkyWeb\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "BulkyWeb\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-18T10:52:35.395Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\shaji\\Desktop\\NET_Project\\Bulky\\BulkyWeb\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "BulkyWeb\\Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "C:\\Users\\shaji\\Desktop\\NET_Project\\Bulky\\BulkyWeb\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "BulkyWeb\\Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-18T10:51:17.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\shaji\\Desktop\\NET_Project\\Bulky\\BulkyWeb\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "BulkyWeb\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\shaji\\Desktop\\NET_Project\\Bulky\\BulkyWeb\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "BulkyWeb\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-18T10:50:38.153Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\shaji\\Desktop\\NET_Project\\Bulky\\BulkyWeb\\Views\\Jokes\\Index.cshtml",
+              "RelativeDocumentMoniker": "BulkyWeb\\Views\\Jokes\\Index.cshtml",
+              "ToolTip": "C:\\Users\\shaji\\Desktop\\NET_Project\\Bulky\\BulkyWeb\\Views\\Jokes\\Index.cshtml",
+              "RelativeToolTip": "BulkyWeb\\Views\\Jokes\\Index.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAmwBsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-18T10:41:14.259Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ShowSearchForm.cshtml",
+              "DocumentMoniker": "C:\\Users\\shaji\\Desktop\\NET_Project\\Bulky\\BulkyWeb\\Views\\Jokes\\ShowSearchForm.cshtml",
+              "RelativeDocumentMoniker": "BulkyWeb\\Views\\Jokes\\ShowSearchForm.cshtml",
+              "ToolTip": "C:\\Users\\shaji\\Desktop\\NET_Project\\Bulky\\BulkyWeb\\Views\\Jokes\\ShowSearchForm.cshtml",
+              "RelativeToolTip": "BulkyWeb\\Views\\Jokes\\ShowSearchForm.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-18T10:01:27.305Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\shaji\\Desktop\\NET_Project\\Bulky\\BulkyWeb\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "BulkyWeb\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\shaji\\Desktop\\NET_Project\\Bulky\\BulkyWeb\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "BulkyWeb\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAACQAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-18T09:43:27.957Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "JokesController.cs",
+              "DocumentMoniker": "C:\\Users\\shaji\\Desktop\\NET_Project\\Bulky\\BulkyWeb\\Controllers\\JokesController.cs",
+              "RelativeDocumentMoniker": "BulkyWeb\\Controllers\\JokesController.cs",
+              "ToolTip": "C:\\Users\\shaji\\Desktop\\NET_Project\\Bulky\\BulkyWeb\\Controllers\\JokesController.cs",
+              "RelativeToolTip": "BulkyWeb\\Controllers\\JokesController.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAiwDgAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T20:05:52.348Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Jokes.cs",
+              "DocumentMoniker": "C:\\Users\\shaji\\Desktop\\NET_Project\\Bulky\\BulkyWeb\\Models\\Jokes.cs",
+              "RelativeDocumentMoniker": "BulkyWeb\\Models\\Jokes.cs",
+              "ToolTip": "C:\\Users\\shaji\\Desktop\\NET_Project\\Bulky\\BulkyWeb\\Models\\Jokes.cs",
+              "RelativeToolTip": "BulkyWeb\\Models\\Jokes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T19:42:24.861Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\shaji\\Desktop\\NET_Project\\Bulky\\BulkyWeb\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "BulkyWeb\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\shaji\\Desktop\\NET_Project\\Bulky\\BulkyWeb\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "BulkyWeb\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAwB8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T19:34:41.603Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
